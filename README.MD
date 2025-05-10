@@ -79,5 +79,5 @@ make memcheck    # Runs Valgrind on compiler using test.j as input
 ### Author
 - Nishan Rai
 Graduate Student, Computer Science
-New Mexico State University
-🔗 LinkedIn •  Email
+[LinkedIn](https://www.linkedin.com/in/nishan-rai/)
+[Email](mailto:nishanrai173@gmail.com)
